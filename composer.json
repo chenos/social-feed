@@ -1,0 +1,12 @@
+{
+    "name": "solutionworks/social-feed",
+    "version": "0.1.1-alpha",
+    "require": {
+        "php": ">=5.3.6"
+    },
+    "autoload": {
+        "files": [ 
+            "src/social-feed.php"
+        ]
+    }
+}
